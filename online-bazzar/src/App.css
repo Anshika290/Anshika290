@@ -1,0 +1,30 @@
+.sidebar ul{
+  list-style: none;
+  background-color:beige;
+  
+}
+.sidebar ul{
+  text-decoration: none;
+}
+
+.sidebar{
+  display: flex;
+  position: fixed;
+  left: 0;
+  height: 700px;
+  /* width:70px; */
+ }
+
+
+
+.navbar{
+  background-color:beige;
+  position: fixed;
+  overflow: hidden;
+  position: sticky;
+  
+  
+
+}
+
+
